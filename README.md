@@ -142,7 +142,7 @@ The company must pivot from an **acquisition-heavy, transactional model** toward
 Together, these strategies shift the business from chasing short-term sales spikes to building **profitable, long-term customer relationships**.  
 
 
-## Technical Details
+## Technical Stack
 - **Database:** Microsoft Contoso 100k (sample e-commerce dataset)
 - **Environment:**  PostgreSQL  
 - **Tools for Analysis:** DBeaver, VS Code, pgAdmin,   
