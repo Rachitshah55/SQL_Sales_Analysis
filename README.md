@@ -1,4 +1,4 @@
-# Sales Analysis
+# Contoso Sales Analysis — Customer Value, Cohorts & Retention
 
 ## Overview
 
@@ -9,6 +9,18 @@ Using SQL-based analysis, the project uncovers patterns in customer value distri
 The deliverables serve two purposes:  
 1. **Analytical Portfolio Piece** – showcasing SQL, visualization, and business interpretation skills.  
 2. **Business Case Study** – illustrating how data analysis can inform growth, retention, and monetization strategies in an e-commerce context.  
+
+## Live Dashboard (Tableau Public)
+
+Primary way to view the results:
+
+> [**Tableau Dashboard — Contoso Sales)**](https://public.tableau.com/views/Contoso_Customer_Health/ContosoCustomerHealth?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
+
+The dashboard includes:
+
+- Revenue by customer segment (High / Mid / Low)  
+- Cohort revenue and per-customer trends by year of first purchase  
+- Retention view (active vs churned customers across cohorts)
 
 ## Business Questions
 1. **Customer Segmentation:** Who are the company's most valuable customers?
